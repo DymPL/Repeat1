@@ -1,0 +1,12 @@
+Raz ustawić: 
+git config --global user.name "Dymek"
+git config --global user.email "d.rzepiejewski@gmail.com"
+git config --global core.editor
+
+
+git init - tworzenie repozytorium, .git
+git status - status plików
+git add . - dodawanie plików do śledzenia
+git log - info o commicie 
+git remote add origin https://github.com/DymPL/Repeat1.git - dodanie zdalnego repo 
+git push origin main - wysłanie na mastera 
