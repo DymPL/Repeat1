@@ -1,0 +1,15 @@
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\bin\Debug\net6.0\Repeat1.exe
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\bin\Debug\net6.0\Repeat1.deps.json
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\bin\Debug\net6.0\Repeat1.runtimeconfig.json
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\bin\Debug\net6.0\Repeat1.dll
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\bin\Debug\net6.0\Repeat1.pdb
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.csproj.AssemblyReference.cache
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.AssemblyInfoInputs.cache
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.AssemblyInfo.cs
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.csproj.CoreCompileInputs.cache
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.dll
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\refint\Repeat1.dll
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.pdb
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\Repeat1.genruntimeconfig.cache
+C:\Users\Dymek\source\repos\Repeat1\Repeat1\obj\Debug\net6.0\ref\Repeat1.dll
