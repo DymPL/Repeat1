@@ -10,3 +10,7 @@ git add . - dodawanie plików do śledzenia
 git log - info o commicie 
 git remote add origin https://github.com/DymPL/Repeat1.git - dodanie zdalnego repo 
 git push origin main - wysłanie na mastera 
+
+git branch nazwabrancha - tworzy branch
+git checkout nazwabranch - przelacza na brancha
+git checkout -b nazwabrancha - tworzy i przelacza brancha jednoczesnie
