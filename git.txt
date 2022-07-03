@@ -14,3 +14,7 @@ git push origin main - wysłanie na mastera
 git branch nazwabrancha - tworzy branch
 git checkout nazwabranch - przelacza na brancha
 git checkout -b nazwabrancha - tworzy i przelacza brancha jednoczesnie
+
+git merge master -połacz branch na którym jestes z masterem
+
+git rebase nazwabrancha - łączy branch z innym branchem liniowo
