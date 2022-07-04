@@ -1,3 +1,21 @@
-PascalCase - nazwa class, plikow, metody
-camelCase - nazwa zmiennnych
-Upper_case - duze liter 
+////Stała
+const string - stała zmienna typu string
+
+////Zmienna
+int number = 2; - zmienna typu int 
+string text = "siema" - zmienna typu string 
+bool - true or false 
+decimal - zmiennoprzecikonowa
+char - znak
+
+
+
+Console.WritleLine("cos tam") - wyswietla teskt
+Console.WritleLine($"Wybierz cos" {choice}") - pobierz od uzytwonika string i przypisz go do zimiennej choice
+
+int chosenOption = 0;
+
+Int32.TryParse(choice, out chosenOption); - zmien typ zmiennej choice na TYP int i zapisz go do zmiennej chosenOption
+
+F12 - info 
+
