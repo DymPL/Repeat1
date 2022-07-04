@@ -1,0 +1,3 @@
+PascalCase - nazwa class, plikow, metody
+camelCase - nazwa zmiennnych
+Upper_case - duze liter 
