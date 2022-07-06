@@ -1,19 +1,19 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
+using System.IO;
 
-namespace Re // Note: actual namespace depends on the project name.
+namespace Repeat1
 {
-    enum Text
-    {
-        One, Two, Three
-    }
     class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var filePath = "imiona.txt";
 
-            Text text = Text.Two;
-            Console.WriteLine(text);
+            var fileContent = File.ReadAllText(filePath);
         }
     }
+
 }
