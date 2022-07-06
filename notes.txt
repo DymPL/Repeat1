@@ -19,3 +19,36 @@ Int32.TryParse(choice, out chosenOption); - zmien typ zmiennej choice na TYP int
 
 F12 - info 
 
+CTRL + . --> dodaje potrzebny using 
+
+CTRL + R + G --> usuwa niepotrzebne using
+
+for + TAB TAB - tworzy pętle for 
+
+ for (int i = 0; i < 4; i++)
+            {
+
+            }
+
+            while (true)
+            {
+
+            }
+
+   do
+            {
+
+            } while (true);
+
+CTRL + R + R - zmiena nazwy zmiennej w calym programie
+
+sufix - var number = 5d;
+
+Console.WriteLine("Podaj numer telefonu: ");
+            Int32.TryParse(Console.ReadLine(), out phone);
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+string choice = Console.ReadLine();
+            int chosenOption ;
+
+            Int32.TryParse(choice, out chosenOption);
