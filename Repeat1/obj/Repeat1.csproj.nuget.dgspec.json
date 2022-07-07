@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dymek\\source\\repos\\Repeat1\\Repeat1\\Repeat1.csproj": {}
+    "C:\\Users\\drzep\\Repeat1\\Repeat1\\Repeat1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dymek\\source\\repos\\Repeat1\\Repeat1\\Repeat1.csproj": {
+    "C:\\Users\\drzep\\Repeat1\\Repeat1\\Repeat1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dymek\\source\\repos\\Repeat1\\Repeat1\\Repeat1.csproj",
+        "projectUniqueName": "C:\\Users\\drzep\\Repeat1\\Repeat1\\Repeat1.csproj",
         "projectName": "Repeat1",
-        "projectPath": "C:\\Users\\Dymek\\source\\repos\\Repeat1\\Repeat1\\Repeat1.csproj",
-        "packagesPath": "C:\\Users\\Dymek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dymek\\source\\repos\\Repeat1\\Repeat1\\obj\\",
+        "projectPath": "C:\\Users\\drzep\\Repeat1\\Repeat1\\Repeat1.csproj",
+        "packagesPath": "C:\\Users\\drzep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drzep\\Repeat1\\Repeat1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\drzep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
