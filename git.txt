@@ -18,3 +18,10 @@ git checkout -b nazwabrancha - tworzy i przelacza brancha jednoczesnie
 git merge master -połacz branch na którym jestes z masterem
 
 git rebase nazwabrancha - łączy branch z innym branchem liniowo
+
+git reset HEAD~1 - cofa commita 
+git revert HEAD - odwraca zmiana i tworzy c' innego commita 
+
+git fetch - pobiera commity w zdalnym repozytorium 
+
+git pull origin master - pobiera ze zdalnego repo
